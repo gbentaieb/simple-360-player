@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<script type="text/javascript" src="bundle.js" charset="utf-8"></script>
+<title>CanalPlus - Player HTML5</title>
+</head>
+<body>
+
+<div>
+  <div>
+    <div id="player-container" style="width: 640px; height: 360px"/>
+  </div>
+  <button onclick="window.player.videoElement.play()">play</button>
+  <button onclick="window.player.videoElement.pause()">pause</button>
+  <button onclick="window.player.destroy()">destroy</button>
+</div>
+
+<script>
+  window.player = window.createSimple360Player(document.getElementById("player-container"));
+  window.player.init();
+  window.player.videoElement.src = "./test.mp4";
+  window.player.start();
+</script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+node_modules
+*.log
+*.keys
+
+*.DS_Store
+
+dist/*
+!dist/one-player-core.js
+!dist/one-player-core.min.js

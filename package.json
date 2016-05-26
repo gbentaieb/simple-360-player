@@ -1,0 +1,42 @@
+{
+  "name": "simple-360-player",
+  "version": "1.0.0",
+  "description": "A simple HTML5 360 video player",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "video",
+    "360",
+    "html5",
+    "web",
+    "mobile"
+  ],
+  "author": "Guillaume Bentaieb",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "eslint-config-airbnb": "^7.0.0",
+    "hls.js": "^0.5.23",
+    "mobile-detect": "^1.3.2",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.3",
+    "rxjs": "^5.0.0-beta.8",
+    "three": "^0.77.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-eslint": "^6.0.2",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-es2015-loose": "^7.0.0",
+    "babel-preset-react": "^6.3.13",
+    "css-loader": "^0.23.1",
+    "eslint": "^2.9.0",
+    "eslint-config-airbnb": "^7.0.0",
+    "eslint-plugin-jsx-a11y": "^0.6.2",
+    "eslint-plugin-react": "^4.3.0",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.12",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
