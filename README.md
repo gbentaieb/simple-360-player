@@ -54,6 +54,8 @@ To launch the demo yourself, run `make demo` and start a local webserver from th
 python -m SimpleHTTPServer 8080 # open http://localhost:8080/demo
 ```
 
+N.B: do not forget to add a video file called test.mp4 in the demo repository. This will be the file played by our player.
+
 ## Dependencies
 
 - [RxJS](https://github.com/Reactive-Extensions/RxJS)
