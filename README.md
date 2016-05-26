@@ -9,7 +9,7 @@ The fastest way to use our player is to add this repository as a dependency of
 your `package.json` dependency field:
 
 ```
-npm install --save https://github.com/gbentaieb/simple-360-player/
+npm install --save git+ssh://git@github.com/gbentaieb/simple-360-player.git
 ```
 
 You can then either use directly the `dist/simple-360-player.js` file:
