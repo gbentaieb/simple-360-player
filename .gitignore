@@ -5,5 +5,5 @@ node_modules
 *.DS_Store
 
 dist/*
-!dist/one-player-core.js
-!dist/one-player-core.min.js
+!dist/simple-360-player.js
+!dist/simple-360-player.min.js
