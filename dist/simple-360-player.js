@@ -4,9 +4,9 @@
 	else if(typeof define === 'function' && define.amd)
 		define([], factory);
 	else if(typeof exports === 'object')
-		exports["360Player"] = factory();
+		exports["Simple360Player"] = factory();
 	else
-		root["360Player"] = factory();
+		root["Simple360Player"] = factory();
 })(this, function() {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache

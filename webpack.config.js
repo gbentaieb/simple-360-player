@@ -11,7 +11,7 @@ const webpack = require('webpack');
 
 module.exports = {
   output: {
-    library: '360Player',
+    library: 'Simple360Player',
     libraryTarget: 'umd',
   },
   module: {
