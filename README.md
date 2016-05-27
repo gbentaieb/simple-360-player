@@ -15,7 +15,7 @@ npm install --save git+ssh://git@github.com/gbentaieb/simple-360-player.git
 You can then either use directly the `dist/simple-360-player.js` file:
 
 ```html
-<script src="node_modules/one-player-core/dist/simple-360-player.js"></script>
+<script src="node_modules/simple-360-player/dist/simple-360-player.js"></script>
 ```
 
 Or with tools like [Browserify](http://browserify.org/) or
