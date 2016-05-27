@@ -98,7 +98,7 @@ For now, this works with Chrome (desktop + mobile), Firefox, and Edge
 
 ## Other Infos
 
-If you want to play 360 Dash or HLS video, you can by using this package and one of those two awesome projects:
+If you want to play 360 Dash or HLS videos, you can by using this package and one of those two awesome projects:
 
 - [hls.js](https://github.com/dailymotion/hls.js)
 - [dash.js](https://github.com/Dash-Industry-Forum/dash.js)
