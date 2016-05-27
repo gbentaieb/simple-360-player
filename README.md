@@ -24,7 +24,19 @@ or AMD dependency.
 
 ## API
 
-First, create and initiate a player instance:
+Import the Simple360Player class:
+
+```sh
+import Simple360Player from 'simple-360-player'; // ES6
+```
+
+If you are using the dist directly, you can access this class like this:
+
+```sh
+var Simple360Player = Simple360Player.default;
+```
+
+Create and initiate a player instance:
 
 ```sh
 window.player = new Simple360Player(container); // container is an HTML container for the 360 player
