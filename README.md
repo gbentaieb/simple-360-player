@@ -1,7 +1,7 @@
 simple-360-player
 ===============
 
-The one-player-core is a Javascript library that aims to provide a tool to easily create and integrate 360 video player in your web pages.
+The simple-360-player is a Javascript library that aims to provide a tool to easily create and integrate 360 video player in your web pages.
 
 ## Installation
 
