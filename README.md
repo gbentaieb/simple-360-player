@@ -94,4 +94,4 @@ make lint
 
 ## Target support
 
-For now, this works with Chrome (desktop + mobile) and Firefox
+For now, this works with Chrome (desktop + mobile), Firefox, and Edge
